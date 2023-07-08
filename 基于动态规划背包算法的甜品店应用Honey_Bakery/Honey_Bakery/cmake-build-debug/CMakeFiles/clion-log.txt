@@ -1,0 +1,6 @@
+"D:\Application\Clion\CLion 2020.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=D:/Application/C/Dev-Cpp/MinGW64/bin/mingw32-make.exe -DCMAKE_C_COMPILER=D:/Application/C/Dev-Cpp/MinGW64/bin/gcc.exe -DCMAKE_CXX_COMPILER=D:/Application/C/Dev-Cpp/MinGW64/bin/g++.exe -G "CodeBlocks - MinGW Makefiles" D:\GCC\School\大二下\算法分析\大作业\Honey_Bakery_2
+CMake Error at CMakeLists.txt:1 (cmake_minimum_required):
+  CMake 3.21 or higher is required.  You are running version 3.16.5
+
+
+-- Configuring incomplete, errors occurred!
